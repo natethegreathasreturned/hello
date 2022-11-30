@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+textarea{
+    width: 300px;
+    height: 100px;
+    background-color: #0394fc;
+    color: white;
+    border-radius: 10px;
+}
+.text{
+    background-color: #0394fc;
+    color: white;
+}
+.email{
+    background-color: #0394fc;
+    color: white;
+}
+button{
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    background-image: url(https://cdn.pixabay.com/photo/2022/08/20/22/25/sea-7400124_960_720.jpg);
+}
+nav{
+    background-color: #0394fc;
+    height: 30px;
+}
+nav a:hover{
+    color: red;
+}

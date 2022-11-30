@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+button{
+    background-image: url(https://cdn.pixabay.com/photo/2022/08/20/22/25/sea-7400124_960_720.jpg);
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
